@@ -14,11 +14,3 @@ Este proyecto es un ejemplo de cómo manejar relaciones bidireccionales **One-to
 - Spring Boot 3.x
 - JPA / Hibernate
 
-## Uso
-
-1. Clona este repositorio.
-2. Importa el proyecto en tu IDE favorito.
-3. Ejecuta la aplicación usando el comando:
-
-   ```bash
-   ./mvnw spring-boot:run
